@@ -1,4 +1,6 @@
-### Olá galera 👋
+### Olá galera 👋 
+- 🔭 Estou começando...
+- 🌱 Interessado em HTML, CSS E JAVA ...
 
 ## Oi, eu sou Gabriel!
 <div align="center">
